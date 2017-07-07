@@ -1,0 +1,30 @@
+<?php
+namespace app\admin\validate;
+
+use think\Validate;
+
+class Category extends Validate{
+
+	protected  $rule = [
+		['cate', 'require|max:100', '分类名必须传递|分类名不能超过10个字符'],
+		['parent_id','number'],
+
+		['id', 'number'],
+
+		['status', 'number|in:-1,0,1','状态必须是数字|状态范围不合法'],
+		['listorder', 'number'],
+
+	];
+
+
+	//筛选  场景设置
+	protected  $scene =[
+		'add' => ['cate', 'parent_id', 'id',],
+		'status' => ['id', 'status'],
+	];
+
+}
+
+
+
+?>

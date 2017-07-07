@@ -1,0 +1,2525 @@
+[ 2017-07-06T10:19:48+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/index/index.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html [运行时间：0.444902s][吞吐率：2.25req/s] [内存消耗：1,938.66kb] [文件加载：47]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/login/login.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499238344',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T10:19:49+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/index/welcome.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/welcome.html [运行时间：0.092894s][吞吐率：10.76req/s] [内存消耗：1,869.50kb] [文件加载：46]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499238344',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\index\welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T10:19:53+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.416973s][吞吐率：2.40req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499307590',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.105999s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.059668s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.012571s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T10:58:52+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html [运行时间：0.058730s][吞吐率：17.03req/s] [内存消耗：1,870.39kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'qianjing',
+    2 => 'qianjing',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499307590',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Qianjing->qianjing[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Qianjing.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\qianjing\qianjing.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T10:59:17+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/index/index.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html [运行时间：0.043906s][吞吐率：22.78req/s] [内存消耗：2,120.23kb] [文件加载：49]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/login/login.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499307590',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T10:59:17+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/index/welcome.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/welcome.html [运行时间：0.046023s][吞吐率：21.73req/s] [内存消耗：1,869.50kb] [文件加载：46]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499307590',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\index\welcome.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T10:59:19+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.083711s][吞吐率：11.95req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000801s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005316s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000918s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T10:59:21+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.055047s][吞吐率：18.17req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000547s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.004961s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000276s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T10:59:22+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.071712s][吞吐率：13.94req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001436s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005544s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000280s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:00:05+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html [运行时间：0.045477s][吞吐率：21.99req/s] [内存消耗：1,870.26kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'jishu',
+    2 => 'jishu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Jishu->jishu[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Jishu.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\jishu\jishu.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:00:08+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html [运行时间：0.042147s][吞吐率：23.73req/s] [内存消耗：1,870.39kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'qianjing',
+    2 => 'qianjing',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Qianjing->qianjing[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Qianjing.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\qianjing\qianjing.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:01:05+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html [运行时间：0.062510s][吞吐率：16.00req/s] [内存消耗：1,870.40kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'cooperation',
+    2 => 'cooperation',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Cooperation->cooperation[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Cooperation.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\cooperation\cooperation.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:01:06+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html [运行时间：0.057464s][吞吐率：17.40req/s] [内存消耗：1,870.38kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'jieshao',
+    2 => 'jieshao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Jieshao->jieshao[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Jieshao.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\jieshao\jieshao.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:01:10+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html [运行时间：0.050401s][吞吐率：19.84req/s] [内存消耗：1,870.26kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'jishu',
+    2 => 'jishu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Jishu->jishu[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Jishu.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\jishu\jishu.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:01:12+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html [运行时间：0.050214s][吞吐率：19.91req/s] [内存消耗：1,870.39kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'qianjing',
+    2 => 'qianjing',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Qianjing->qianjing[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Qianjing.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\qianjing\qianjing.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:01:14+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/gushi/gushi.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/gushi/gushi.html [运行时间：0.048515s][吞吐率：20.61req/s] [内存消耗：1,870.28kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'gushi',
+    2 => 'gushi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Gushi->gushi[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Gushi.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\gushi\gushi.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:01:19+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/jidi/jidi.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jidi/jidi.html [运行时间：0.045593s][吞吐率：21.93req/s] [内存消耗：1,870.26kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'jidi',
+    2 => 'jidi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/gushi/gushi.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Jidi->jidi[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Jidi.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\jidi\jidi.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:01:22+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html [运行时间：0.047019s][吞吐率：21.27req/s] [内存消耗：1,870.41kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'cooperation',
+    2 => 'cooperation',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jidi/jidi.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Cooperation->cooperation[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Cooperation.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\cooperation\cooperation.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:01:22+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html [运行时间：0.044490s][吞吐率：22.48req/s] [内存消耗：1,870.38kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'jieshao',
+    2 => 'jieshao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Jieshao->jieshao[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Jieshao.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\jieshao\jieshao.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:01:24+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html [运行时间：0.056358s][吞吐率：17.74req/s] [内存消耗：1,870.39kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'qianjing',
+    2 => 'qianjing',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Qianjing->qianjing[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Qianjing.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\qianjing\qianjing.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:01:55+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/py/py.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/py/py.html [运行时间：0.056870s][吞吐率：17.58req/s] [内存消耗：1,870.30kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'py',
+    2 => 'py',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Py->py[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Py.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\py\py.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:02:00+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/index/index.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/index/index.html [运行时间：0.092170s][吞吐率：10.85req/s] [内存消耗：2,739.93kb] [文件加载：53]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/py/py.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\index->index[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\index\index.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000671s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `article` [ RunTime:0.017712s ]
+[ sql ] [ SQL ] SELECT * FROM `article` [ RunTime:0.001442s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:02:02+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/dynamic/dynamic.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/dynamic/dynamic.html [运行时间：0.052062s][吞吐率：19.21req/s] [内存消耗：1,870.30kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'dynamic',
+    2 => 'dynamic',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Dynamic->dynamic[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Dynamic.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\dynamic\dynamic.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:02:09+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html [运行时间：0.042817s][吞吐率：23.36req/s] [内存消耗：1,870.40kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'cooperation',
+    2 => 'cooperation',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/dynamic/dynamic.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Cooperation->cooperation[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Cooperation.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\cooperation\cooperation.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:02:11+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/py/py.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/py/py.html [运行时间：0.039343s][吞吐率：25.42req/s] [内存消耗：1,870.27kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'py',
+    2 => 'py',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Py->py[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Py.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\py\py.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:02:13+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html [运行时间：0.039159s][吞吐率：25.54req/s] [内存消耗：1,870.41kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'cooperation',
+    2 => 'cooperation',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/py/py.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Cooperation->cooperation[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Cooperation.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\cooperation\cooperation.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:02:54+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/gushi/gushi.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/gushi/gushi.html [运行时间：0.046207s][吞吐率：21.64req/s] [内存消耗：1,870.38kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'gushi',
+    2 => 'gushi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Gushi->gushi[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Gushi.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\gushi\gushi.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:03:29+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html [运行时间：0.044074s][吞吐率：22.69req/s] [内存消耗：1,870.27kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'jishu',
+    2 => 'jishu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/gushi/gushi.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Jishu->jishu[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Jishu.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\jishu\jishu.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:03:36+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html [运行时间：0.040133s][吞吐率：24.92req/s] [内存消耗：1,870.39kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'qianjing',
+    2 => 'qianjing',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Qianjing->qianjing[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Qianjing.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\qianjing\qianjing.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:04:11+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/jidi/jidi.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jidi/jidi.html [运行时间：0.048409s][吞吐率：20.66req/s] [内存消耗：1,870.25kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'jidi',
+    2 => 'jidi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Jidi->jidi[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Jidi.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\jidi\jidi.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:04:13+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/gushi/gushi.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/gushi/gushi.html [运行时间：0.042001s][吞吐率：23.81req/s] [内存消耗：1,870.30kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'gushi',
+    2 => 'gushi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jidi/jidi.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Gushi->gushi[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Gushi.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\gushi\gushi.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:04:24+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html [运行时间：0.037698s][吞吐率：26.53req/s] [内存消耗：1,870.39kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'qianjing',
+    2 => 'qianjing',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/gushi/gushi.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Qianjing->qianjing[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Qianjing.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\qianjing\qianjing.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:04:25+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html [运行时间：0.041648s][吞吐率：24.01req/s] [内存消耗：1,870.26kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'jishu',
+    2 => 'jishu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Jishu->jishu[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Jishu.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\jishu\jishu.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:04:40+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html [运行时间：0.047507s][吞吐率：21.05req/s] [内存消耗：1,870.31kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'jieshao',
+    2 => 'jieshao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Jieshao->jieshao[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Jieshao.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\jieshao\jieshao.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:05:24+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html [运行时间：0.041819s][吞吐率：23.91req/s] [内存消耗：1,870.39kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'qianjing',
+    2 => 'qianjing',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Qianjing->qianjing[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Qianjing.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\qianjing\qianjing.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:05:31+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html [运行时间：0.048580s][吞吐率：20.58req/s] [内存消耗：1,870.38kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'jieshao',
+    2 => 'jieshao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/qianjing/qianjing.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Jieshao->jieshao[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Jieshao.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\jieshao\jieshao.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:06:35+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html [运行时间：0.058823s][吞吐率：17.00req/s] [内存消耗：1,870.38kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'jieshao',
+    2 => 'jieshao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Jieshao->jieshao[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Jieshao.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\jieshao\jieshao.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:06:38+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html [运行时间：0.049575s][吞吐率：20.17req/s] [内存消耗：1,870.40kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'cooperation',
+    2 => 'cooperation',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Cooperation->cooperation[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Cooperation.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\cooperation\cooperation.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:06:42+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html [运行时间：0.048122s][吞吐率：20.78req/s] [内存消耗：1,870.38kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'jieshao',
+    2 => 'jieshao',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/cooperation/cooperation.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Jieshao->jieshao[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Jieshao.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\jieshao\jieshao.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:06:50+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html [运行时间：0.039326s][吞吐率：25.43req/s] [内存消耗：1,870.26kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'jishu',
+    2 => 'jishu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jieshao/jieshao.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Jishu->jishu[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Jishu.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\jishu\jishu.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:07:05+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/index/gushi/gushi.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/gushi/gushi.html [运行时间：0.042156s][吞吐率：23.72req/s] [内存消耗：1,870.30kb] [文件加载：44]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'gushi',
+    2 => 'gushi',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/index/jishu/jishu.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Gushi->gushi[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\index\controller\Gushi.php ]
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/index\view\gushi\gushi.html [ array (
+) ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:02+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.073352s][吞吐率：13.63req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000708s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005755s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000218s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:03+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.069213s][吞吐率：14.45req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009845s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005426s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000392s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:04+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.081628s][吞吐率：12.25req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010231s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005076s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000218s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:05+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.073578s][吞吐率：13.59req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009993s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005251s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000248s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:05+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.057248s][吞吐率：17.47req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000678s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005048s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000335s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:06+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.062579s][吞吐率：15.98req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009836s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005387s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000254s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:06+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.065758s][吞吐率：15.21req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009430s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005496s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000200s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:06+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.070896s][吞吐率：14.11req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009934s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.006439s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000206s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:06+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.070813s][吞吐率：14.12req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003919s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005900s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000281s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:07+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.068884s][吞吐率：14.52req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004541s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.009404s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000208s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:07+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.065147s][吞吐率：15.35req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010089s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005372s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000254s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:07+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.062034s][吞吐率：16.12req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009901s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005396s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000232s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:07+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.067060s][吞吐率：14.91req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001284s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005978s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000349s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:07+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.074154s][吞吐率：13.49req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010137s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.006877s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000330s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:08+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.073900s][吞吐率：13.53req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010233s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.004998s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000201s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:08+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.076760s][吞吐率：13.03req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009560s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.006021s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000429s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:08+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.067496s][吞吐率：14.82req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009547s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005062s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000220s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:09+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.069937s][吞吐率：14.30req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010242s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005776s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000224s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:10+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.068295s][吞吐率：14.64req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010058s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005121s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000245s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:10+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.061535s][吞吐率：16.25req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010389s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005578s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000232s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:10+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.075190s][吞吐率：13.30req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006606s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.008592s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.001035s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:11+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.063516s][吞吐率：15.74req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000942s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.007288s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000892s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:11+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.074380s][吞吐率：13.44req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009677s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005053s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000241s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:11+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.075115s][吞吐率：13.31req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009910s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.005225s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000381s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:11+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/inrtoduce/inrtoduce.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/inrtoduce/inrtoduce.html [运行时间：0.097985s][吞吐率：10.21req/s] [内存消耗：3,071.49kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'inrtoduce',
+    2 => 'inrtoduce',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Inrtoduce->Inrtoduce[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Inrtoduce.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\inrtoduce\inrtoduce.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010721s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `inrtoduce` [ RunTime:0.011539s ]
+[ sql ] [ SQL ] SELECT * FROM `inrtoduce` [ RunTime:0.000473s ]
+
+---------------------------------------------------------------
+[ 2017-07-06T11:10:13+08:00 ] 127.0.0.1 127.0.0.1 GET /thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html
+[ log ] 127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/technology/technology.html [运行时间：0.066920s][吞吐率：14.94req/s] [内存消耗：3,068.41kb] [文件加载：55]
+[ info ] [ LANG ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'technology',
+    2 => 'technology',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36',
+  'referer' => 'http://127.0.0.1/thinkphp_5.0.5_full/public/index.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'PHPSESSID=ttgb4kmacrm9nlp0oe9e7e06p4; Hm_lvt_080836300300be57b7f34f4b3e97d911=1499042975,1499054843,1499075392,1499219012; Hm_lpvt_080836300300be57b7f34f4b3e97d911=1499309958',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Technology->Technology[ D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\application\admin\controller\Technology.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\WorkSofe\wamp\www\thinkphp_5.0.5_full\public/../application/admin\view\technology\technology.html [ array (
+  0 => 'field',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000523s ] mysql:dbname=admin;host=127.0.0.1;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `technology` [ RunTime:0.007931s ]
+[ sql ] [ SQL ] SELECT * FROM `technology` [ RunTime:0.000200s ]
+
+---------------------------------------------------------------
